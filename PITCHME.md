@@ -5,7 +5,7 @@ description: An overview of the Indico Project as well as its usage at CERN
 theme: indico
 paginate: true
 _paginate: false
-footer: CC BY-NC-SA 4.0 • https://cern.ch/ind-fos-24
+footer: CC BY-NC-SA 4.0
 ---
 
 <!-- _footer: '' -->
@@ -18,7 +18,7 @@ footer: CC BY-NC-SA 4.0 • https://cern.ch/ind-fos-24
 ![width:400px](assets/theme/logo.svg)
 *an event management system*
 
-### Pedro Ferreira, Dominic Hollis (CERN)
+### Pedro Ferreira, Adrian Mönnich, Tomáš Roun (CERN)
 
 <style scoped>
 h3 {
@@ -27,8 +27,6 @@ h3 {
     font-weight: normal;
 }
 </style>
-
-<!-- _footer: CC BY-NC-SA 4.0 • Indico and CERN logos: © Copyright CERN • https://cern.ch/ind-fos-24 -->
 
 ---
 
@@ -56,7 +54,14 @@ h3 {
    - [indico.gnome.org](https://indico.gnome.org)
    - [lpc.events](https://lpc.events)
 
+
 ---
+
+![width:500px](assets/un_pres_3.png)
+![width:500px](assets/un_pres_1.png) ![width:500px](assets/un_pres_2.png)
+
+---
+
 
 ![bg left 50%](assets/vase.svg)
 
@@ -82,6 +87,12 @@ section {
 
 ---
 
+![width:700px](assets/fp5.png)
+
+https://cordis.europa.eu/project/id/IST-2001-34306
+
+---
+
 ![bg](assets/cms_2.jpg)
 ![bg](assets/cms_1.jpg)
 
@@ -102,28 +113,6 @@ footer {
 
 ---
 
-### FOSS at CERN
-
-- Open science is at the core of CERN's mission
-- Indico, Invenio, Zenodo, ROOT, ...
-- CERN Open Hardware Licence (CERN OHL)
-- CERN OSPO (Open Source Program Office)
-
-*also **using** a lot of FOSS!*
-
-![bg left 80%](assets/opensource.svg)
-
----
-
-### A bit of publicity...
-![bg left:40%](assets/cern_at_fosdem.svg)
-
-- **Sat 13:30 - K.3.201** - CERN's Open Source Storage Systems
-- **Sat 14:20 - K.3.201** - CephFS at CERN in view of Disaster Recovery
-- **Sat 16:00 - UB4.132** - Unlocking Research Data Management with InvenioRDM
-
----
-
 ### CERN
 
 - **~17.000** people on campus <!-- 2022 stats -->
@@ -141,7 +130,6 @@ footer {
 
 
 ![height:400px](assets/event_stats_cern.svg)
-
 
 ---
 
@@ -321,7 +309,53 @@ footer {
 ![bg width:65% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/checkin_app.png)
 
 ---
+<style scoped>
+    ul > li > ul {
+        font-size: 0.8em;
+    }
 
+    ul > li > ul > li {
+        margin-bottom: 0;
+    }
+
+    ul > li {
+        margin-bottom: 1em;
+    }
+</style>
+
+### How to get Indico?
+
+ * 🏃🏻 **Option 1: run it yourself**
+    - **Pros:** full control, data sovereignty/privacy, cheap (if you have internal IT know-how)
+    - **Cons:** may become expensive if there is no know-how
+ * 🖥️ **Option 2: get someone to run it on your own infrastructure**
+    - **Pros:** full control, data sovereignty/privacy, cheap (if you have your own IT infrastructure)
+    - **Cons:** you still need to have your own IT infrastructure
+ * ☁️ **Option 3: get someone to host/run it for you (cloud)**
+    - **Pros:** most likely cheaper than running your own IT
+    - **Cons:** data sovereignty/privacy
+
+---
+### Some known providers
+ - Mythic Beasts
+ - S2Innovation
+ - unconventional.dev (CERN spin-off)
+
+---
+
+### Governance
+![bg right 80%](assets/gov.png)
+
+ - Clear **Governance Policy** with **roles and bodies**
+ - Regular workshops and community events
+ - **Consultative board:** CERN, UN and MPP
+ - **"Making Indico better for us and everyone else"** e.g. accessibility work by UN
+ 
+![width:300px](assets/gov_logos.png)
+https://github.com/indico/governance
+
+
+---
 ![bg left 95% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/forum.png)
 
 ### Conclusion
