@@ -3,12 +3,19 @@
 @import 'uncover';
 
 h3 {
-    color: #00a4e4;
+    color: #16aae5;
+}
+a {
+    color: rgb(12, 111, 150);
 }
 em {
-    color: #888;
+    color: #DDD;
     font-weight: normal;
 }
 section {
     font-size: 1.7em;
+}
+section::after {
+    color: #888;
+    text-shadow: 0 0 5px #00293A;
 }

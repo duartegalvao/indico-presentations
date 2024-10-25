@@ -5,20 +5,26 @@ description: An overview of the Indico Project as well as its usage at CERN
 theme: indico
 paginate: true
 _paginate: false
-footer: CC BY-NC-SA 4.0
+footer: Duarte Galvão, Michel Succar - IT-CA-CTE (CERN)
 ---
+<!-- color: "#6ac9ff" -->
+<!-- backgroundColor: "#00293A" -->
 
 <!-- _footer: '' -->
+<!-- _backgroundColor: "#0033A0" -->
 
-![bg](#0033A0)
 ![bg width:400px](assets/theme/cern.svg)
 
 ---
 
-![width:400px](assets/theme/logo.svg)
-*an event management system*
+<!-- _footer: '' -->
 
-### Pedro Ferreira, Adrian Mönnich, Tomáš Roun (CERN)
+![width:400px](assets/theme/logo_inverted.svg)
+*two decades of history, many more to come*
+
+### Duarte Galvão, Michel Succar (CERN)
+
+#### JACoW Team Meeting 2024
 
 <style scoped>
 h3 {
@@ -32,7 +38,7 @@ h3 {
 
 ![bg left 90% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/indico_main_page.png)
 
-### ![width:200px](assets/theme/logo.svg)
+### ![width:200px](assets/theme/logo_inverted.svg)
 
  - **Event Management** System
  - **Collaborative effort** - MIT License
@@ -42,9 +48,15 @@ h3 {
 
 ---
 
-![bg 100% left](assets/community_map.png)
+![bg 100%](assets/community_map.png)
 
 *The most popular event management system you never heard about*
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
  - **300+ servers**
  - **> 350K users**
@@ -54,6 +66,18 @@ h3 {
    - [indico.gnome.org](https://indico.gnome.org)
    - [lpc.events](https://lpc.events)
 
+<style scoped>
+section {
+    color: #fff;
+    text-shadow: 0 0 10px #000;
+}
+a {
+    color: #bbb;
+}
+ul {
+    background-color: rgba(0,0,0,0.2);
+}
+</style>
 
 ---
 
@@ -93,23 +117,9 @@ https://cordis.europa.eu/project/id/IST-2001-34306
 
 ---
 
-![bg](assets/cms_2.jpg)
-![bg](assets/cms_1.jpg)
+### Team
 
-<!-- _footer: © Copyright CERN --->
-
-<style scoped>
-footer {
-    color: white;
-}
-</style>
-
----
-
-![bg](assets/next_1.jpg)
-![bg](assets/cc_2.jpg)
-
-<!-- _footer: © Copyright CERN --->
+![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team.png) ![height:200px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_lead.png)
 
 ---
 
@@ -351,20 +361,60 @@ footer {
  - **Consultative board:** CERN, UN and MPP
  - **"Making Indico better for us and everyone else"** e.g. accessibility work by UN
  
-![width:300px](assets/gov_logos.png)
+![width:300px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/gov_logos.png)
 https://github.com/indico/governance
 
+---
+
+### What is JACoW?
 
 ---
-![bg left 95% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/forum.png)
 
-### Conclusion
- - Extensible event management system
- - Open Source
- - Mature and actively maintained
- - Ecosystem of plugins: official + 3rd party
- - Thriving community
- - **Everyone is welcome**!
+<!-- _paginate: hold -->
+
+### What is JACoW? (our POV)
+
+![height:500px](assets/architecture.svg)
+
+---
+
+<!-- _paginate: hold -->
+
+### What is JACoW? (our POV)
+
+![height:500px](assets/architecture_target.svg)
+
+---
+
+### Past year's progress
+
+- We went to IPAC24
+
+![bg right](assets/ipac.png)
+
+---
+
+### Past year's progress
+
+- We went to IPAC24
+    - and we took notes!
+- TODO
+
+![bg right](assets/ipac_notes.png)
+
+---
+
+### The Future of Indico
+
+- Greater Accessibility (a11y) 
+- UI Improvements and legacy code removal
+    - React-based timetable
+- User Interfaces
+    - Improvements in material editor (e.g. better drag and drop)
+    - Responsive interfaces that work OK on mobile
+- More user-centric home page
+- Version 2 of the REST API: granular scopes, endpoint versioning, OpenAPI support;
+- More info in our roadmap (https://getindico.io/roadmap/)
 
 ---
 
@@ -390,5 +440,4 @@ img {
 <!-- _footer: '' -->
 <!-- _paginate: false -->
 
-![bg](#002939ff)
 ![bg 30%](assets/theme/logo_inverted.svg)
