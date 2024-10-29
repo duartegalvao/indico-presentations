@@ -20,7 +20,7 @@ footer: Duarte Galvão, Michel Succar - IT-CA-CTE (CERN)
 <!-- _footer: '' -->
 
 ![width:400px](assets/theme/logo_inverted.svg)
-*two decades of history, many more to come*
+*how's it going? when are we dumping SPMS?*
 
 ### Duarte Galvão, Michel Succar (CERN)
 
@@ -36,15 +36,9 @@ h3 {
 
 ---
 
-![bg left 90% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/indico_main_page.png)
+### Adoption at CERN
 
-### ![width:200px](assets/theme/logo_inverted.svg)
-
- - **Event Management** System
- - **Collaborative effort** - MIT License
- - Core Developed at **CERN**
- - With contributions from the **United Nations**, **Max-Planck Institute for Physics** and many others!
- - **70+ developers** over the years
+![height:400px](assets/event_stats_cern.svg)
 
 ---
 
@@ -66,117 +60,11 @@ h3 {
    - [indico.gnome.org](https://indico.gnome.org)
    - [lpc.events](https://lpc.events)
 
-<style scoped>
-section {
-    color: #fff;
-    text-shadow: 0 0 10px #000;
-}
-a {
-    color: #bbb;
-}
-ul {
-    background-color: rgba(0,0,0,0.2);
-}
-</style>
-
----
-
-![width:500px](assets/un_pres_3.png)
-![width:500px](assets/un_pres_1.png) ![width:500px](assets/un_pres_2.png)
-
----
-
-
-![bg left 50%](assets/vase.svg)
-
-### History
-
- - **1999** - **CDS Agenda**
- - **2002** - **EU Project**
- - **2004** - Indico in **Production**
- - **2007** - **Room Booking**
- - **2008** - **Interface overhaul**
- - **2013** - First **Workshop**
- - **2015** - The **UN** starts using it
- - **2017** - Indico 2.0 (**rewrite**)
- - **2021** - Indico 3.0 (**Python 3**)
- - **2023** - **1 Million Events** surpassed at CERN 🎉
- - **2024** - **20 years!**
-
-<style scoped>
-section {
-    font-size: 1.7em;
-}
-</style>
-
----
-
-![width:700px](assets/fp5.png)
-
-https://cordis.europa.eu/project/id/IST-2001-34306
-
 ---
 
 ### Team
 
 ![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team.png) ![height:200px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_lead.png)
-
----
-
-### CERN
-
-- **~17.000** people on campus <!-- 2022 stats -->
-- **~230** meeting rooms
-- **100.000+** events/year
-  * **1.000.000+** events total
-- (Distributed) Meetings
-- Conferences, workshops
-
-![bg left](assets/cern_science_gateway_above.png)
-
----
-
-### Adoption at CERN
-
-
-![height:400px](assets/event_stats_cern.svg)
-
----
-
-![](assets/event_types.svg)
-
----
-<style scoped>
-    section {
-        justify-content: start;
-    }
-</style>
-
-![bg 80% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/indico_rb.png)
-
----
-
-### Philosophy
-
- - "General purpose" **core**
- - Extension through **plugins** 🧩
- - **Themes** 🎨 (customization)
-
-![bg left](assets/cogs.jpg)
-
----
-![bg right](assets/hood.jpg)
-
-### Under the Hood
-
- - Python 3 🐍
- - PostgreSQL 🐘
- - Flask
- - Celery
- - SQLAlchemy
- - React
- - Semantic UI React
- - *among many others!*
 
 ---
 
@@ -265,91 +153,11 @@ https://cordis.europa.eu/project/id/IST-2001-34306
     section {
         justify-content: start;
     }
-    h3 {
-        margin-top: 1em;
-    }
-</style>
-
-### Hot desking
-
-![bg width:60% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/burotel.png)
-
----
-<style scoped>
-    section {
-        justify-content: start;
-    }
-</style>
-
-### Themes / Customization
-
-![bg width:55% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/ilcagenda.png)
-
----
-<style scoped>
-    section {
-        justify-content: start;
-    }
-</style>
-
-### Themes / Customization
-
-![bg width:50% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/meeting.png)
-
----
-<style scoped>
-    section {
-        justify-content: start;
-    }
-</style>
-
-### Themes / Customization
-
-![bg width:50% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/conference.png)
-
----
-<style scoped>
-    section {
-        justify-content: start;
-    }
 </style>
 
 ### Check-in App (PWA)
 
 ![bg width:65% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/checkin_app.png)
-
----
-<style scoped>
-    ul > li > ul {
-        font-size: 0.8em;
-    }
-
-    ul > li > ul > li {
-        margin-bottom: 0;
-    }
-
-    ul > li {
-        margin-bottom: 1em;
-    }
-</style>
-
-### How to get Indico?
-
- * 🏃🏻 **Option 1: run it yourself**
-    - **Pros:** full control, data sovereignty/privacy, cheap (if you have internal IT know-how)
-    - **Cons:** may become expensive if there is no know-how
- * 🖥️ **Option 2: get someone to run it on your own infrastructure**
-    - **Pros:** full control, data sovereignty/privacy, cheap (if you have your own IT infrastructure)
-    - **Cons:** you still need to have your own IT infrastructure
- * ☁️ **Option 3: get someone to host/run it for you (cloud)**
-    - **Pros:** most likely cheaper than running your own IT
-    - **Cons:** data sovereignty/privacy
-
----
-### Some known providers
- - Mythic Beasts
- - S2Innovation
- - unconventional.dev (CERN spin-off)
 
 ---
 
