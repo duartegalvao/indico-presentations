@@ -436,21 +436,9 @@ https://github.com/indico/governance
 
 ---
 
-### Show undone revisions to authors
+### More transparency with timeline resets
 
 ![](assets/Show_reset_revisions.png)
-
----
-
-### Filter editables by session
-
-![](assets/Tag_list_size.png)
-
----
-
-### Bigger revision tag list
-
-![bg right](assets/ipac_notes.png)
 
 ---
 
