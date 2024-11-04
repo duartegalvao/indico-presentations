@@ -398,7 +398,57 @@ https://github.com/indico/governance
 
 - We went to IPAC24
     - and we took notes!
-- TODO
+
+![bg right](assets/ipac_notes.png)
+
+---
+
+### Contributions ACL permission
+
+![bg right 60%](assets/ACL_Permissions.png)
+
+---
+
+### "Go to timeline" button
+
+![](assets/Go_to_timeline.png)
+
+---
+
+### Revision files upload errors
+
+![height:450px](assets/Revision_error_before.png) ![height:450px](assets/Revision_error_after.png)
+
+---
+
+### Refactor ReviewForm
+
+- Judge button on editing revisions
+- Switching between actions on the editing timeline erases comment
+
+![](assets/ReviewForm.png)
+
+---
+
+### Upload files on "Approve" judgment
+
+![height:500px](assets/Upload_Files_Approval.png)
+
+---
+
+### Show undone revisions to authors
+
+![](assets/Show_reset_revisions.png)
+
+---
+
+### Filter editables by session
+
+![](assets/Tag_list_size.png)
+
+---
+
+### Bigger revision tag list
 
 ![bg right](assets/ipac_notes.png)
 
