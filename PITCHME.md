@@ -403,42 +403,40 @@ https://github.com/indico/governance
 
 ---
 
-### Contributions ACL permission
+### Contributions permission
 
 ![bg right 60%](assets/ACL_Permissions.png)
 
 ---
 
-### "Go to timeline" button
+### UI/UX improvements
 
-![](assets/Go_to_timeline.png)
+![height:300px](assets/Revision_error_before.png) ![height:300px](assets/Revision_error_after.png)
 
----
-
-### Revision files upload errors
-
-![height:450px](assets/Revision_error_before.png) ![height:450px](assets/Revision_error_after.png)
+![height:200px](assets/search_external.png)
 
 ---
 
-### Refactor ReviewForm
+### Improvements on Reviewing
 
 - Judge button on editing revisions
 - Switching between actions on the editing timeline erases comment
+- Green-dot with new files
 
-![](assets/ReviewForm.png)
-
----
-
-### Upload files on "Approve" judgment
-
-![height:500px](assets/Upload_Files_Approval.png)
+![height:150px](assets/ReviewForm.png) ![height:300px](assets/Upload_Files_Approval.png)
 
 ---
 
-### More transparency with timeline resets
+### More transparency on QA Fails
 
 ![](assets/Show_reset_revisions.png)
+
+---
+
+### Multiple affiliations
+
+![height:220px](assets/multiple_affiliations_1.png) ![height:220px](assets/multiple_affiliations_2.png)
+![height:220px](assets/multiple_affiliations_3.png)
 
 ---
 
@@ -453,6 +451,37 @@ https://github.com/indico/governance
 - More user-centric home page
 - Version 2 of the REST API: granular scopes, endpoint versioning, OpenAPI support;
 - More info in our roadmap (https://getindico.io/roadmap/)
+
+---
+
+<!-- _footer: '' -->
+
+![bg 120%](assets/indico_workshop_35.jpg)
+
+### Come to our workshop!
+
+*Date TBA; sometime in March*
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<style scoped>
+section {
+    text-shadow: 0 0 10px #fff;
+}
+h3, em {
+    color: #000;
+    background-color: rgba(0,0,0,0.2);
+}
+</style>
 
 ---
 
