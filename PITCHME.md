@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Indico - an event management system
-description: An overview of the Indico Project as well as its usage at CERN
+title: 8 years of Indico-JACoW collaboration
+description: An overview of the Indico-JACoW
 theme: indico
 paginate: true
 _paginate: false
@@ -253,6 +253,28 @@ BIW)
 - Estimated 4 years worth of work in total
 
 ![bg right 100%](assets/big_doc.png)
+
+---
+<style scoped>
+.bottomrow {
+    display: flex;
+    flex-direction: row;
+    font-size: 12pt;
+    gap: 10px;
+}
+</style>
+
+![height:350px](assets/pedro_a_ouvir.jpg)
+
+<div class=bottomrow>
+
+![height:250px](assets/pedro_bar.jpg)
+
+*JTM'16, Vancouver, Canada*
+
+</div>
+
+![bg right 150%](assets/pedro_cima.jpg)
 
 ---
 
