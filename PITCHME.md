@@ -215,6 +215,7 @@ BIW)
 - "Scientific Programme Management System"
 - Developed by FNAL for JACoW in the early 2000s
 - Allowed the handling of users, affiliations, mailing lists, editing conference procceedings, etc.
+- It's basically an oracle database using SQL to generate HTML ![height:30px](assets/ohno.png)
 
 ![bg right 90%](assets/spms.png)
 
@@ -380,6 +381,25 @@ ul {
 ### What is JACoW? (our POV)
 
 ![height:500px](assets/architecture_target.svg)
+
+---
+<!-- _paginate: hold -->
+<style scoped>
+.slok {
+    position: absolute;
+    right: 380px;
+    bottom: 40px;
+}
+</style>
+
+### What is JACoW? (our POV)
+![height:500px](assets/architecture_target.svg)
+
+<div class=slok>
+
+![height:200px](assets/slok.png)
+
+</div>
 
 ---
 
