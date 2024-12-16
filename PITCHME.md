@@ -38,14 +38,14 @@ h3 {
 
 ### Team
 
-![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team.png) ![height:200px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_lead.png)
+![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team.png)
 
 ---
 <!-- _paginate: hold -->
 
 ### Team
 
-![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_jacow.png) ![height:200px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_lead.png)
+![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_jacow.png)
 
 ---
 <style scoped>
@@ -226,7 +226,7 @@ BIW)
 
 - Became unmaintainable by the early 2010s
 - Constant security issues
-- Currently hosted at CERN (which is incompatible with the previous point)
+- Currently hosted at CERN
 
 ---
 
@@ -261,11 +261,23 @@ BIW)
 ![height:500px](assets/project_roles.png)
 
 ---
+<style scoped>
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+</style>
 
-### Working together
+### The solution?
+
+* ## ![height:60px](assets/rainbow.svg) WORKING TOGETHER ![height:60px](assets/rainbow.svg)
+
+---
+
+### ![height:30px](assets/rainbow.svg) Working together ![height:30px](assets/rainbow.svg)
 
 
-- In 2019, after it was first tested by JACoW members, it was deemed unfit to run any conference
+- In 2019, after it was first tested by JACoW members, it wasn't ready to run any conference
 - In 2021, Ivan Andrian (Elettra Sincrotrone Trieste) was designated as the JACoW-Indico Manager
 - Since then, we've regular meetings to keep up with the project's status
 - Started using a Kanban board
@@ -274,7 +286,7 @@ BIW)
 
 ---
 
-### Working together
+### ![height:30px](assets/rainbow.svg) Working together ![height:30px](assets/rainbow.svg)
 
 - In August 2022 JACoW ran its first large conference (fully) on Indico
 ![height:400px](assets/fel22.png)
@@ -295,7 +307,7 @@ BIW)
 }
 </style>
 
-### Working together
+### ![height:30px](assets/rainbow.svg) Working together ![height:30px](assets/rainbow.svg)
 
 - In the past couple of years, we've had a much closer collaboration
 
@@ -314,9 +326,11 @@ BIW)
 # 2024
 
 ---
+<!-- _backgroundColor: "#FFFFFF" -->
 
-![height:350px](assets/get_next_paper.png) ![height:350px](assets/editing_timeline_1.png)
-![height:200px](assets/editing_timeline_2.png) ![height:200px](assets/editable_list.png)
+![bg 100%](assets/heaven.png)
+
+![height:600px drop-shadow:0,0,50px,#FFDF00](assets/editing_timeline.png)
 
 ---
 
@@ -328,7 +342,7 @@ BIW)
     &rarr; Indico Core, as a setting
 - Specific to JACoW use cases
     - highly linked to Indico
-        &rarr; JACoW Plugin or Microsservice
+        &rarr; JACoW Plugin or Microservice
     - loosely related to Indico
         &rarr; JACoW's problem ;)
 
@@ -402,25 +416,6 @@ BIW)
     - Implement custom fields for user profiles
     - Add ORCID & ROR integration with user profiles
 - UI/UX improvements in Contributions/Abstracts management
-
----
-
-### [getindico.io](https://getindico.io)
-
-![mastodon width:40px](assets/theme/mastodon.svg) [@getindico@fosstodon.org](https://fosstodon.org/@getindico)
-![twitter width:40px](assets/theme/twitter.png) [@getindico](https://twitter.com/getindico)
-![matrix width:30px](assets/theme/matrix.svg) [@#indico:matrix.org](https://app.element.io/#/room/#indico:matrix.org) / indico@libera.chat
-
-![bg right:30% width: 60%](assets/hexsticker.svg)
-
-<style scoped>
-p {
-    text-align: left;
-}
-img {
-    vertical-align: middle;
-}
-</style>
 
 ---
 <!-- _footer: '' -->
