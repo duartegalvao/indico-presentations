@@ -48,6 +48,13 @@ h3 {
 ![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_jacow.png)
 
 ---
+<!-- _paginate: hold -->
+
+### Team
+
+![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_all_jacow.png)
+
+---
 <style scoped>
 h3 {
     color: #fff;
@@ -191,6 +198,7 @@ td {
 </div>
 
 ---
+<!-- _footer: '' -->
 
 ![bg 100%](assets/jtm24.jpg)
 
@@ -390,6 +398,9 @@ ul {
     right: 380px;
     bottom: 40px;
 }
+p {
+    margin-bottom: 0;
+}
 </style>
 
 ### What is JACoW? (our POV)
@@ -460,7 +471,15 @@ ul {
 - UI/UX improvements in Contributions/Abstracts management
 
 ---
-<!-- _footer: '' -->
+<!-- _footer: 'Pictured: me presenting to all of the active SPMS developers @ Music City Center, Nashville, TN, USA' -->
 <!-- _paginate: false -->
 
-![bg 30%](assets/theme/logo_inverted.svg)
+![bg 100%](assets/finale.jpg)
+![height:200px](assets/theme/logo_inverted.svg)
+
+---
+<!-- _backgroundColor: '#FFFFFF' -->
+
+### Bonus slide: JACoW Editing Workflow
+
+![](assets/editing_workflow.jpg)
