@@ -1,11 +1,11 @@
 ---
 marp: true
-title: 8 years of Indico-JACoW collaboration
-description: An overview of the Indico-JACoW
+title: Indico-JACoW Collaboration
+description: An overview of the Indico-JACoW collaboration
 theme: indico
 paginate: true
 _paginate: false
-footer: Duarte Galvão - IT-CA-CTE (CERN)
+footer: Duarte Galvão, Michel Succar - IT-CA-CTE (CERN)
 ---
 <!-- color: "#6ac9ff" -->
 <!-- backgroundColor: "#00293A" -->
@@ -20,11 +20,11 @@ footer: Duarte Galvão - IT-CA-CTE (CERN)
 <!-- _footer: '' -->
 
 ![width:400px](assets/theme/logo_inverted.svg)
-*8 years of Indico-JACoW collaboration*
+*Indico-JACoW Collaboration*
 
-### Duarte Galvão (IT-CA-CTE)
+### Duarte Galvão, Michel Succar - IT-CA-CTE (CERN)
 
-#### IT-CA Group Meeting *(December 2024)*
+#### ATS Seminar *(13th February 2025)*
 
 <style scoped>
 h3 {
@@ -33,6 +33,111 @@ h3 {
     font-weight: normal;
 }
 </style>
+
+---
+
+![bg left 90% drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/indico_main_page.png)
+
+### ![width:200px](assets/theme/logo_inverted.svg)
+
+ - **Event Management** System
+ - **Collaborative effort** - MIT License
+ - Core Developed at **CERN**
+ - With contributions from the **United Nations**, **Max-Planck Institute for Physics** and many others!
+ - **70+ developers** over the years
+
+---
+
+![bg 100%](assets/community_map.png)
+
+*The most popular event management system you never heard about*
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+ - **300+ servers**
+ - **> 350K users**
+ - Initial growth in research, but growing beyond it
+   - [indico.un.org](https://indico.un.org)
+   - [events.canonical.org](https://events.canonical.com/)
+   - [indico.gnome.org](https://indico.gnome.org)
+   - [lpc.events](https://lpc.events)
+
+<style scoped>
+section {
+    color: #fff;
+    text-shadow: 0 0 10px #000;
+}
+a {
+    color: #bbb;
+}
+ul {
+    background-color: rgba(0,0,0,0.2);
+}
+</style>
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/cdsa_1.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/cdsa_2.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/cdsa_3.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/cdsa_4.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/indicos.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/indigos.png)
+
+---
+
+![bg left 50%](assets/vase.svg)
+
+### History
+
+ - **1999** - **CDS Agenda**
+ - **2002** - **EU Project**
+ - **2004** - Indico in **Production**
+ - **2007** - **Room Booking**
+ - **2008** - **Interface overhaul**
+ - **2013** - First **Workshop**
+ - **2015** - The **UN** starts using it
+ - **2017** - Indico 2.0 (**rewrite**)
+ - **2021** - Indico 3.0 (**Python 3**)
+ - **2023** - **1 Million Events** surpassed at CERN 🎉
+ - **2024** - **20 years!**
+
+<style scoped>
+section {
+    font-size: 1.7em;
+}
+</style>
+
+---
+
+![width:700px](assets/fp5.png)
+
+https://cordis.europa.eu/project/id/IST-2001-34306
 
 ---
 
@@ -48,173 +153,16 @@ h3 {
 ![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_jacow.png)
 
 ---
-<!-- _paginate: hold -->
 
-### Team
+### The history of the Indico-JACoW Collaboration
+* # 2000s
 
-![height:400px drop-shadow:0,5px,10px,rgba(0,0,0,.4)](assets/team_all_jacow.png)
-
----
-<style scoped>
-h3 {
-    color: #fff;
-    text-shadow: 0 0 10px #000;
-}
-</style>
-
-### What is a "JACoW"?
-
-![bg 100%](assets/jack_cow.png)
-
----
-<!-- _backgroundColor: "#FFFFFF" -->
-
-![bg 60%](assets/jacow_website.png)
-
----
-
-### What is JACoW?
-
-![bg left 90%](assets/jacow_universe.png)
-
-- JACoW is NOT a legal entity
-- Members from research institutions from all over the world
-- Oversees and provides services for publication of conference proceedings
-
----
 <style scoped>
 ul {
-    width: 100%;
-    columns: 3;
-    font-size: 9pt;
-}
-
-h4 {
-    font-size: 12pt;
-    margin-bottom: 0.5em;
+    list-style-type: none;
+    padding-left: 0;
 }
 </style>
-
-### What is JACoW? (Institutions)
-
-#### Americas
-- BNL (Upton, NY, US)
-- Cornell University (CLASSE) (Ithaca, NY, US)
-- FRIB (East Lansing, MI, US)
-- JLAB (Newport News, VA, US)
-- LANL (Los Alamos, NM, US)
-- LBNL (Berkeley, CA, US)
-- LNLS (Campinas, BR)
-- ORNL (Oak Ridge, TN, US)
-- SLAC (Menlo Park, CA, US)
-- TRIUMF (Vancouver, BC, CA)
-
-#### Asia-Pacific
-- ANSTO (Sidney, AU)
-- BARC (Mumbai, IN)
-- CIAE (Beijing, CN)
-- HU/AdSM (Higashi-Hiroshima, JP)
-- IBS (Daejeon, KR)
-- IHEP (Beijing, CN)
-- IMP (Lanzhou, CN)
-- JAEA/J-PARC (Tokai-mura, JP)
-- KAERI (Daejeon, KR)
-- KBSI (Busan, KR)
-- KEK (Ibaraki, JP)
-- KIRAMS/KHIMA (Seoul, KR)
-- NIRS (Chiba, JP)
-- NSRRC (Hsinchu, TW)
-- PKU (Beijing, CN)
-- RIKEN SPring-8 Center (Hyogo, JP)
-- RRCAT (Indore, IN)
-- SLRI (Nakhon Ratchasima, TH)
-- SINAP (Shanghai, CN)
-- TUB (Beijing, CN)
-- VECC (Kolkata, IN)
-
-#### Europe, Middle East, Africa
-- CELLS-ALBA Synchrotron (Barcelona, ES)
-- **CERN (Geneva, CH)**
-- CEA/DSM/IRFU (Orsay, FR)
-- DESY (Hamburg, DE)
-- DLS (Oxford, GB)
-- Elettra-Sincrotrone Trieste (Trieste, IT)
-- ESRF (Grenoble, FR)
-- ESS (Lund, SE)
-- GSI (Darmstadt, DE)
-- HZB (Berlin, DE)
-- HZDR (Dresden, DE)
-- IAP/RAS (Nizhny Novgorod, RU)
-- IFIC (Valencia, ES)
-- INFN/LNF (Frascati, IT)
-- ILSF (Tehran, IR)
-- KIT (Karlsruhe, DE)
-- KACST (Riyadh, SA)
-- MAX-lab (Lund, SE)
-- PSI (Villigen, CH)
-- STFC/DL/ASTeC (Daresbury, GB)
-- STFC/RAL/ASTeC (Didcot, GB)
-- The University of Liverpool (Liverpool, GB)
-- URLS (Rome, IT)
-
----
-<style scoped>
-.tables {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    font-size: 9pt;
-}
-
-td {
-    text-align: left;
-}
-</style>
-
-### What is JACoW? (People)
-
-<div class=tables>
-
-| Role                                         | Person                                         |
-|----------------------------------------------|------------------------------------------------|
-| **Chair**                                    | Adriana Rossi, CERN / 2024-2027                |
-| **Deputy Chair**                             | Caitlin Hoffman, BNL / 2023-2026               |
-| **Coordinator**                              | Jana Thomson, TRIUMF / 2024-2027               |
-| **Directors**                                | Thakonwat Chanwattana, SLRI / 2022-2025<br>Johan Olander, ESS / 2022-2025<br>Volker Schaa, GSI / 2022-2025 |
-| **Regional Support Manager for Asia-Pacific**| Takashi Kosuge, KEK (SPMS)                     |
-| **Regional Support Manager for EMEA**        | Ronny Billen, CERN (SPMS)<br>Jan Chrin, PSI (fileserver) |
-| **JACoW-Indico Manager**                     | Ivan Andrian, Elettra Sincrotrone Trieste       |
-| **Repository Manager**                       | Magdalena Montes-Loera, SLAC<br>Volker RW Schaa, GSI |
-
-
-| Role                                         | Name, Affiliation and Dates                    |
-|----------------------------------------------|------------------------------------------------|
-| **JACoW.org Webmaster**                      | Stefano Deiuri, Elettra Sincrotrone Trieste     |
-| **JACoW.org Content Manager**                | Sumner Brown Gibbs, ORNL                       |
-| **Proceedings Maintenance**                  | Europe: Ronny Billen, CERN<br>Asia: Kazuro Furukawa, KEK                     |
-| **Indico Support and Development**           | Adrian Mönnich, CERN<br>Duarte Galvão, CERN<br>Michel Succar Medina, CERN                     |
-| **Co-Opted Team Members**                    | Evelyne Akers, Jefferson Lab<br>Lin Bian, IHEP Beijing<br>David Button, ANSTO<br>Zhichu (Ross) Chen, SARI<br>Stefano Deiuri, Elettra Sincrotrone Trieste<br>Michaela Marx, DESY<br>Meghan McAteer, HZB<br>Vincent Mitts, CAMD/LSU<br>Raphael Mueller, GSI<br>Josh Peters, ANSTO Alumnus<br>Christine Petit-Jean-Genaz, CERN Contributing Retiree<br>John Poole, JP Scientific/CERN<br>Akihiro Shirakawa, KEK<br>Heping Yan, SINAP                              |
-
-</div>
-
----
-<!-- _footer: '' -->
-
-![bg 100%](assets/jtm24.jpg)
-
----
-
-### What is JACoW? (Conferences)
-
-- **IPAC** from 2010 (formerly PAC, EPAC, APAC)
-- **NA-PAC** from 2011 (formerly PAC)
-- **IBIC** from 2012 (European DIPAC and North-American
-BIW)
-- **COOL, CYCLOTRONS, ECRIS, EIC, FEL, HIAT, ICAP, ICALEPCS, ICFA ABDW, LINAC, MEDSI, PCaPAC, RUPAC, SAP, SRF**
-
----
-
-# 2000s
 
 ---
 
@@ -262,28 +210,6 @@ BIW)
 - Estimated 4 years worth of work in total
 
 ![bg right 100%](assets/big_doc.png)
-
----
-<style scoped>
-.bottomrow {
-    display: flex;
-    flex-direction: row;
-    font-size: 12pt;
-    gap: 10px;
-}
-</style>
-
-![height:350px](assets/pedro_a_ouvir.jpg)
-
-<div class=bottomrow>
-
-![height:250px](assets/pedro_bar.jpg)
-
-*JTM'16, Vancouver, Canada*
-
-</div>
-
-![bg right 150%](assets/pedro_cima.jpg)
 
 ---
 
@@ -364,6 +290,11 @@ ul {
 ![height:600px drop-shadow:0,0,50px,#FFDF00](assets/editing_timeline.png)
 
 ---
+<!-- _footer: '' -->
+
+![bg 100%](assets/jtm24.jpg)
+
+---
 
 ### Our approach to JACoW requests
 
@@ -389,28 +320,6 @@ ul {
 ### What is JACoW? (our POV)
 
 ![height:500px](assets/architecture_target.svg)
-
----
-<!-- _paginate: hold -->
-<style scoped>
-.slok {
-    position: absolute;
-    right: 380px;
-    bottom: 40px;
-}
-p {
-    margin-bottom: 0;
-}
-</style>
-
-### What is JACoW? (our POV)
-![height:500px](assets/architecture_target.svg)
-
-<div class=slok>
-
-![height:200px](assets/slok.png)
-
-</div>
 
 ---
 
@@ -457,6 +366,18 @@ p {
 ### Upload files on "Approve" judgment
 
 ![height:500px](assets/upload_files_approve.png)
+
+---
+
+### Multiple Affiliations
+
+![](assets/affiliation_search.png) ![](assets/affiliation_search_result.png)
+
+---
+
+### Adding authors after search
+
+![height:400px](assets/author_search_no_results.png) ![height:400px](assets/author_search_enter_person.png)
 
 ---
 
