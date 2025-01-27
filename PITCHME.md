@@ -80,9 +80,34 @@ ul {
 </style>
 
 ---
+<!-- _footer: '' -->
 
-![width:500px](assets/un_pres_3.png)
-![width:500px](assets/un_pres_1.png) ![width:500px](assets/un_pres_2.png)
+![bg 100%](assets/cdsa_1.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/cdsa_2.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/cdsa_3.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/cdsa_4.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/indicos.png)
+
+---
+<!-- _footer: '' -->
+
+![bg 100%](assets/indigos.png)
 
 ---
 
