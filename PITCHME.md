@@ -381,6 +381,12 @@ ul {
 
 ---
 
+### CSV import/export for Peer Review teams
+
+![height:350px](assets/CSV_PeerReview.png) ![height:350px](assets/CSV_file_upload.png)
+
+---
+
 ### Future of the Indico-JACoW Collaboration
 
 - (Finish) implementing feedback from IPAC24
@@ -390,6 +396,12 @@ ul {
     - Implement custom fields for user profiles
     - Add ORCID & ROR integration with user profiles
 - UI/UX improvements in Contributions/Abstracts management
+
+---
+
+### Integration with new mailing list service (Brevo) 🚧
+
+![height:400px](assets/Indico_mailing_lists.png) ![height:400px](assets/Brevo_mailing_lists.png)
 
 ---
 <!-- _footer: 'Pictured: me presenting to all of the active SPMS developers @ Music City Center, Nashville, TN, USA' -->
