@@ -279,8 +279,13 @@ ul {
 </div>
 
 ---
+<!-- _footer: '' -->
 
-# 2024
+![bg 100%](assets/jtm24.jpg)
+
+---
+
+# 2025
 
 ---
 <!-- _backgroundColor: "#FFFFFF" -->
@@ -288,11 +293,6 @@ ul {
 ![bg 100%](assets/heaven.png)
 
 ![height:600px drop-shadow:0,0,50px,#FFDF00](assets/editing_timeline.png)
-
----
-<!-- _footer: '' -->
-
-![bg 100%](assets/jtm24.jpg)
 
 ---
 
@@ -391,11 +391,11 @@ ul {
 
 - (Finish) implementing feedback from IPAC24
 - Abandon SPMS/Central Repository and use Indico as the sole source of identities
-    - Ability to add authors manually after search result returns empty
     - Integration with new mailing list service
     - Implement custom fields for user profiles
     - Add ORCID & ROR integration with user profiles
 - UI/UX improvements in Contributions/Abstracts management
+- https://github.com/orgs/indico/projects/2/views/4
 
 ---
 
